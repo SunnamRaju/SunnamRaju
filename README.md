@@ -10,7 +10,10 @@
 
 🌱 As a fresher, I am enthusiastic and ready to take on new challenges and opportunities in the world of data science.
 
- 
+## Skills and Tools
+
+python
+ Sql 
 <!--
 **SunnamRaju/SunnamRaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
